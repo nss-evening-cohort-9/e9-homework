@@ -1,7 +1,5 @@
 # E9 Homework
 
-: February
-
 | Week | Dates | Topic |
 |---|---|---|
 | [Week 1](./week01.md) | February 18 - 23, 2019 | Getting Started |
