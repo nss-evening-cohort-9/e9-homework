@@ -1,5 +1,7 @@
 # HW Week 1
 
+BEFORE SATURDAY: MAC users only - Install [X-code](https://itunes.apple.com/us/app/xcode/id497799835?mt=12).  Depending on your operating system this can take anywhere from 15 minutes to 8+ hours.  Please do it before class on saturday.
+
 ### Study Group Assignment:
 1.  None
 
